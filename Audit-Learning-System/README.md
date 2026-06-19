@@ -1,8 +1,13 @@
 # Audit Learning System — for an HLB Tashkent Intern
 
+> **Last updated: 19 June 2026.**
 > Your complete, self-paced system to go from beginner to confident audit associate.
 > Built for your 2-month probation period. Covers ACCA knowledge (FA, MA, PM, FR, FM, AA),
 > Excel + audit software tools, and official certifications you can earn with real exams.
+
+> 👉 **Want clickable links to courses, YouTube videos, and every certification body?**
+> Open **[`Resources/Learning-Links.md`](Resources/Learning-Links.md)** — every link is
+> clickable and opens in your browser.
 
 ---
 
@@ -39,6 +44,7 @@ and the *where to get certified*.
 | 10 | `ACCA/06-AA-Audit-and-Assurance.md` | **The core of your job.** Risk, evidence, procedures, reports. |
 | 11 | `Resources/Courses-and-Certifications.md` | Where to get certified (free + paid, with exams). |
 | 12 | `Resources/Practice-Exercises.md` | Drills and mini-projects to build real skill. |
+| 13 | [`Resources/Learning-Links.md`](Resources/Learning-Links.md) | **All clickable links** — courses, YouTube, every certification body. |
 
 **After the first read:** treat it as a reference. Jump to whatever you need that day.
 
@@ -62,7 +68,8 @@ Audit-Learning-System/
 │   └── Other-Software-Tools.md
 └── Resources/
     ├── Courses-and-Certifications.md
-    └── Practice-Exercises.md
+    ├── Practice-Exercises.md
+    └── Learning-Links.md          ← all clickable links + certifications
 ```
 
 ---
